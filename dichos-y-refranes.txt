@@ -1,15 +1,15 @@
-Solo se que no se nada (de GIT).
+"Solo se que no se nada (de GIT)."
 
-No hay mal que por bien no venga
+"No hay mal que por bien no venga."
 
 "Más vale tarde que nunca."
 "No hay mal que por bien no venga."
 "A quien madruga, Dios le ayuda."
 "No dejes para mañana lo que puedas hacer hoy."
 
-Hoy por ti, mañana por mi.
+"Hoy por ti, mañana por mi."
 
-Mas vale pajaro en mano, que 100 volando.
+"Mas vale pajaro en mano, que 100 volando."
 
 "No por mucho madrugar amanece más temprano."
 
@@ -18,3 +18,8 @@ Mas vale pajaro en mano, que 100 volando.
 "El que madruga, estara todo el dia cansado"
 
 "Caballo regalado, se vende mas caro"
+
+"A lo hecho, pecho.
+Al mal tiempo, buena cara.
+Cada loco con su tema.
+De tal palo, tal astilla."
